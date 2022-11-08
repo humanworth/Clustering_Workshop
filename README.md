@@ -1,5 +1,7 @@
 # Clustering_Workshop
 This repository belongs to the clustering workshop that I presented at the university of Windsor. 
+The first part of this workshop is the introduction to clustering algorithms and their concepts. The second part of this workshop provides advanced topics in clustering concepts like dimensionality reduction and its techniques.
+
 
 In order to run this file successfully, you need to have scikit-learn and all its default packages installed. 
 
